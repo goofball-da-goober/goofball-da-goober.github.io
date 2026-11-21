@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.goofball_da_goober.twa",
-    "sha256_cert_fingerprints": ["98:87:40:E8:82:94:9D:4D:2C:B7:89:11:A2:B9:D6:BA:7D:6A:1A:82:73:17:57:33:CB:C8:F9:75:5B:3D:D2:ED"]
+    "sha256_cert_fingerprints": ["9B:3F:B1:2C:8F:6D:C7:37:18:BA:29:A5:86:70:8F:FC:4C:20:90:7C:E1:7E:68:5F:FB:1A:69:C2:4E:F1:DC:77"]
   }
 }]
